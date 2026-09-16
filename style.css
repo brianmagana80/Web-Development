@@ -1,0 +1,23 @@
+p{
+    color:blue;
+    font-style: italic;
+}
+
+div{
+    color: green;
+    width: 100px;
+    height: 100px;
+}
+
+.box{
+    width: 100px;
+    height: 100px;
+    background: violet;
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid red;
+    position:absolute;
+    top: 0px;
+    left: 500px;
+
+}
